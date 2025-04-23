@@ -1,4 +1,5 @@
 # International Debt Data Analysis with Postgresql
+![](worldbank)
 
 This is an an ehibition of my skills in using Postgres SQL to interact with a relational database. 
 
